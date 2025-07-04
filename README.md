@@ -5,7 +5,7 @@
 ![CrewAI](https://img.shields.io/badge/CrewAI-AI%20Agents-blue)
 ![Groq](https://img.shields.io/badge/Groq-LLM-purple)
 
-A lightweight, multilingual carbon accounting and reporting tool for enterprises in Asia, with AI-powered insights and enterprise-grade data entry.
+A lightweight, multilingual carbon accounting and reporting tool for SMEs in Asia, with AI-powered insights and data entry.
 
 ## 📋 Table of Contents
 
