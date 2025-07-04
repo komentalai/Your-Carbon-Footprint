@@ -83,8 +83,8 @@ A lightweight, multilingual carbon accounting and reporting tool for SMEs in Asi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/yourcarbonfootprint.git
-cd yourcarbonfootprint
+git clone https://github.com/AIAnytime/Your-Carbon-Footprint/tree/main.git
+cd Your-Carbon-Footprint/
 ```
 
 2. Create and activate a virtual environment:
