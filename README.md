@@ -1,4 +1,4 @@
-# YourCarbonFootprint - Enterprise Carbon Accounting Tool
+# YourCarbonFootprint - AI Agents powered Carbon Accounting Tool
 
 ![Carbon Footprint](https://img.shields.io/badge/Carbon-Footprint-green)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
