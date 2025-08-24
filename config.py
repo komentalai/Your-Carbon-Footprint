@@ -24,7 +24,7 @@ EMISSIONS_FILE = os.path.join(DATA_DIR, "emissions.json")
 COMPANY_INFO_FILE = os.path.join(DATA_DIR, "company_info.json")
 
 # Supported languages
-SUPPORTED_LANGUAGES = ["English", "Hindi"]
+SUPPORTED_LANGUAGES = ["English", "Swahili"]
 
 # Emission scopes
 EMISSION_SCOPES = ["Scope 1", "Scope 2", "Scope 3"]
